@@ -5,4 +5,4 @@ function getMonthName(monthNumber) {
 
 }
 
-console.log(getMonthName(5));
+// console.log(getMonthName(5));
